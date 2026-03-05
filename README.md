@@ -24,7 +24,7 @@
 
 | Not Listesi | Yeni Not Ekleme |
 | :---: | :---: |
-| <img src="image_21dcec.png" width="300"> | <img src="image_21dcc9.png" width="300"> |
+| <img src="screenshots/image_21dcec.png" width="300"> | <img src="screenshots/image_21dcc9.png" width="300"> |
 
 > *Not: Ekran görüntüleri projenin mevcut UI tasarımını temsil etmektedir.*
 
